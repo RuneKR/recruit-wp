@@ -14,10 +14,10 @@ No detailed specs are given for the UI/CX. Just make a simple UI – Feel free t
 
 #	Post type B:
 *	Name: Insurance Policy Claim
-*	Fields:
-  - Policy ID – Required
-  - Name – Required
-  - Email – Required, Email Format
+* Fields:
+  -	Policy ID – Required, Number
+  -	Name – Required, Text
+  -	Email – Required, Email
   
 # What is valued
 -	Tests
