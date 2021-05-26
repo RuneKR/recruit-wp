@@ -38,4 +38,4 @@ You can use any tools, plugins and technologies as required for you to complete 
 -	CSS
 
 # Submitting Assignment
-Feel free to create a public GitHub repo or private GitHub repo where you invite runekr. He can give access to the right tower members.
+Feel free to create a public GitHub repo or private GitHub repo where you invite runekr. He can give access to the right people.
